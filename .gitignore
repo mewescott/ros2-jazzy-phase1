@@ -1,0 +1,11 @@
+/build/
+/install/
+/log/
+/.vscode/
+build/
+install/
+log/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.pytest_cache/

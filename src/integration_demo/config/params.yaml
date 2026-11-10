@@ -1,0 +1,3 @@
+/robot1/velocity_publisher:
+  ros__parameters:
+    robot_speed: 5.5
